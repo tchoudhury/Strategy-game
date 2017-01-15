@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pathfinding/PathFinding.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pathfinding/Graph.cs" Line="17" Column="23" />
+      <File FileName="Assets/Third party/Ultimate Isometric Toolkit/Code/IsometricTools/Iso/Tile.cs" Line="9" Column="1" />
+      <File FileName="Assets/Third party/Ultimate Isometric Toolkit/Code/IsometricTools/IsoController/Node.cs" Line="21" Column="38" />
+      <File FileName="Assets/Scripts/Pathfinding/UnitMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Pathfinding/PathFinding.cs" Line="91" Column="32" />
+      <File FileName="Assets/Third party/Ultimate Isometric Toolkit/Code/IsometricTools/Iso/GridMap.cs" Line="58" Column="11" />
+      <File FileName="Assets/Third party/Ultimate Isometric Toolkit/Code/IsometricTools/Other/LevelGenerator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="Pathfinding" expanded="True">
+                <Node name="PathFinding.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Third party" expanded="True">
+              <Node name="Ultimate Isometric Toolkit" expanded="True">
+                <Node name="Code" expanded="True">
+                  <Node name="IsometricTools" expanded="True">
+                    <Node name="Iso" expanded="True" />
+                    <Node name="IsoController" expanded="True" />
+                    <Node name="Other" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
